@@ -131,4 +131,4 @@ function giveMeRandom(num) {
   }
   return array;
 }
-console.log(giveMeRandom(9));
+console.log(giveMeRandom(7));
